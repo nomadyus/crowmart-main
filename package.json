@@ -1,0 +1,14 @@
+{
+  "name": "CrowMart",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "14.14.x"
+  },
+  "scripts": {
+    "start": "npx http-server"
+  },
+  "dependencies": {
+    "http-server": "^13.0.0"
+  }
+}
