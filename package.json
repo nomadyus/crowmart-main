@@ -9,6 +9,7 @@
     "start": "npx http-server"
   },
   "dependencies": {
-    "http-server": "^13.0.0"
+    "http-server": "^13.0.0",
+    "jsonpath": "^1.1.1"
   }
 }
